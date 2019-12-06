@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.be16f0f7b87c5f04caac104771c75779.js"
+  "/precache-manifest.6fc921738f8ff34ef5ff2cb10ae4b541.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "quaver"});
