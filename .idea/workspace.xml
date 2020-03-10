@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8fa85ba0-c444-4a75-b0b3-66731ffa5910" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/icons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/icons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/icons.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chord.html" beforeDir="false" afterPath="$PROJECT_DIR$/chord.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/docs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/semantic.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/drumpad.html" beforeDir="false" afterPath="$PROJECT_DIR$/drumpad.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lato/Lato-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lato/Lato-BoldItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lato/Lato-Italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/lato/Lato-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bassxiao_mp_qrcode.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bassxiao_wx_qrcode.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/chord.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/quaver.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/rocket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sing.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tuner.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/docs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/highlight.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/less.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/semantic.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metronome.html" beforeDir="false" afterPath="$PROJECT_DIR$/metronome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/more.html" beforeDir="false" afterPath="$PROJECT_DIR$/more.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/piano.html" beforeDir="false" afterPath="$PROJECT_DIR$/piano.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scale.html" beforeDir="false" afterPath="$PROJECT_DIR$/scale.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sightreading.html" beforeDir="false" afterPath="$PROJECT_DIR$/sightreading.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuner.html" beforeDir="false" afterPath="$PROJECT_DIR$/tuner.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/piano.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="51" column="33" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/more.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="58" column="45" lean-forward="true" selection-start-line="58" selection-start-column="45" selection-end-line="58" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/browserconfig.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CNAME">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chord.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1725">
+              <caret line="115" column="41" selection-start-line="115" selection-start-column="41" selection-end-line="115" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/img/chord.jpeg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/img/tuner.jpeg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sightreading.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1018">
+              <caret line="116" column="15" lean-forward="true" selection-start-line="116" selection-start-column="15" selection-end-line="116" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tuner.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="62" selection-start-line="62" selection-end-line="63" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;link rel=&quot;stylesheet/less&quot; type=&quot;text/css&quot; href=&quot;./data/button.less&quot;&gt;</find>
+      <find>&lt;!-- saved from url=(0024)https://lesstk.com/ --&gt;</find>
+      <find>&lt;script type=&quot;text/javascript&quot; src=&quot;./data/live.js&quot;&gt;&lt;/script&gt;</find>
+      <find>&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;./data/rtl.css&quot;&gt;</find>
+      <find>./js/vendor/jquery.min.js</find>
+      <find>platform.twitter.</find>
+      <find>&lt;script id=&quot;twitter-wjs&quot; src=&quot;./data/widgets.js&quot;&gt;&lt;/script&gt;</find>
+      <find>&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.79.4&quot;&gt;</find>
+      <find>UA-XXXXX-Y</find>
+      <find>&lt;link rel=&quot;image_src&quot; type=&quot;image/jpeg&quot; href=&quot;./img/logo.png&quot;&gt;</find>
+      <find>&lt;link rel=&quot;image_src&quot; type=&quot;image/jpeg&quot; href=&quot;./img/logo.png&quot;&gt; &lt;link rel=&quot;manifest&quot; href=&quot;site.webmanifest&quot;&gt;</find>
+      <find>五度圈,助手</find>
+      <find>WIndows、MacOS</find>
+      <find>快来试试吧~</find>
+      <find>&lt;a class=&quot;item &quot; href=&quot;sightreading.html&quot;&gt;视唱练耳&lt;/a&gt;</find>
+      <find>快来体验吧</find>
+      <find>&lt;script async=&quot;&quot; src=&quot;./data/analytics.js&quot;&gt;&lt;/script&gt;</find>
+      <find>&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;css/docs.css&quot;&gt;&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;css/home.css&quot;&gt;</find>
+      <find>&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;css/home.css&quot;&gt;</find>
+      <find>/head</find>
+      <find>ite.webmanifest</find>
+      <find>&lt;link rel=&quot;manifest&quot; href=&quot;site.webmanifest&quot;&gt;</find>
+      <find>appl</find>
+      <find>&lt;link rel=&quot;apple-touch-icon&quot; href=&quot;icon.png&quot;&gt;</find>
+      <find>&lt;meta name=”applicable-device” content=”pc,mobile”&gt;</find>
+      <find>href=&quot;https://lesstk.com/&quot;</find>
+      <find>lesstk.com</find>
+      <find>semantic.min.js</find>
+      <find>logo.png</find>
+      <find>&lt;meta name=”applicable-device” content=”pc,mobile”&gt;&gt;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/js/vendor/jquery.min.js</replace>
+      <replace>./js/vendor/jquery.min.js</replace>
+      <replace>/assets/fonts/icons</replace>
+      <replace>../assets/fonts/icons</replace>
+      <replace>data</replace>
+      <replace>lesstk.com</replace>
+      <replace>./js/jquery.min.js</replace>
+      <replace>UA-125940688-1</replace>
+      <replace>五度圈,音乐助手</replace>
+      <replace>Windows、MacOS</replace>
+      <replace>快来免费体验吧！</replace>
+      <replace>快来免费体验吧</replace>
+      <replace>&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;css/home.css&quot;&gt;</replace>
+      <replace />
+      <replace>&lt;meta name=”applicable-device” content=”pc,mobile”&gt;</replace>
+      <replace>&gt;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/sui.htm" />
+        <option value="$PROJECT_DIR$/Semantic UI_files/home.css" />
+        <option value="$PROJECT_DIR$/Semantic UI_files/docs.js" />
+        <option value="$PROJECT_DIR$/Semantic UI_files/docs.css" />
+        <option value="$PROJECT_DIR$/Semantic UI_files/semantic.min.css" />
+        <option value="$PROJECT_DIR$/data/docs.js" />
+        <option value="$PROJECT_DIR$/data/widgets.js" />
+        <option value="$PROJECT_DIR$/metronome.html" />
+        <option value="$PROJECT_DIR$/chord.html" />
+        <option value="$PROJECT_DIR$/drumpad.html" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/tuner.html" />
+        <option value="$PROJECT_DIR$/scale.html" />
+        <option value="$PROJECT_DIR$/index.htm.html" />
+        <option value="$PROJECT_DIR$/index2.html" />
+        <option value="$PROJECT_DIR$/js/docs.js" />
+        <option value="$PROJECT_DIR$/sightreading.html" />
+        <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/browserconfig.xml" />
+        <option value="$PROJECT_DIR$/CNAME" />
+        <option value="$PROJECT_DIR$/piano.html" />
+        <option value="$PROJECT_DIR$/more.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="642" />
+    <option name="y" value="270" />
+    <option name="width" value="2366" />
+    <option name="height" value="1187" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bassbar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bassbar" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/fonts/lato" />
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bassbar/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fa85ba0-c444-4a75-b0b3-66731ffa5910" name="Default Changelist" comment="" />
+      <created>1583755418406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583755418406</updated>
+      <workItem from="1583755420310" duration="7616000" />
+      <workItem from="1583808598595" duration="8577000" />
+      <workItem from="1583818842432" duration="8012000" />
+      <workItem from="1583838419395" duration="2011000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26216000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="642" y="270" width="2366" height="1187" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13987207" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32968035" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/semantic-ui" />
+    <entry file="file://$PROJECT_DIR$/data/theming.png" />
+    <entry file="file://$PROJECT_DIR$/data/toolbox.png" />
+    <entry file="file://$PROJECT_DIR$/data/kristy.png" />
+    <entry file="file://$PROJECT_DIR$/data/lab.png" />
+    <entry file="file://$PROJECT_DIR$/data/lena.png" />
+    <entry file="file://$PROJECT_DIR$/data/heart.png" />
+    <entry file="file://$PROJECT_DIR$/data/eve.png" />
+    <entry file="file://$PROJECT_DIR$/data/elyse.png" />
+    <entry file="file://$PROJECT_DIR$/data/devices.png" />
+    <entry file="file://$PROJECT_DIR$/data/book.png" />
+    <entry file="file://$PROJECT_DIR$/data/manifest.jsonp" />
+    <entry file="file://$PROJECT_DIR$/data/live.js" />
+    <entry file="file://$PROJECT_DIR$/data/rtl.css" />
+    <entry file="file://$PROJECT_DIR$/data/widgets.js" />
+    <entry file="file://$PROJECT_DIR$/data/js/docs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4245">
+          <caret line="283" selection-start-line="283" selection-end-line="283" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/analytics.js" />
+    <entry file="file://$PROJECT_DIR$/doc/html.md" />
+    <entry file="file://$PROJECT_DIR$/data/js/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4530">
+          <caret line="302" selection-start-line="302" selection-end-line="302" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/js/less.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robots.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drumpad.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="116" column="1" selection-start-line="116" selection-start-column="1" selection-end-line="116" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metronome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="138" column="18" selection-start-line="138" selection-start-column="17" selection-end-line="138" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scale.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-471">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/icons/msapplication-icon-144x144.png" />
+    <entry file="file://$PROJECT_DIR$/img/icons/favicon-32x32.png" />
+    <entry file="file://$PROJECT_DIR$/img/icons/apple-touch-icon-152x152.png" />
+    <entry file="file://$PROJECT_DIR$/img/icons/android-chrome-192x192.png" />
+    <entry file="file://$PROJECT_DIR$/index.htm" />
+    <entry file="file://$PROJECT_DIR$/index2.html" />
+    <entry file="file://$PROJECT_DIR$/img/basics_cur.png" />
+    <entry file="file://$PROJECT_DIR$/img/basics.png" />
+    <entry file="file://$PROJECT_DIR$/img/about_cur.png" />
+    <entry file="file://$PROJECT_DIR$/img/component.png" />
+    <entry file="file://$PROJECT_DIR$/img/component_cur.png" />
+    <entry file="file://$PROJECT_DIR$/img/play.png" />
+    <entry file="file://$PROJECT_DIR$/img/pause.png" />
+    <entry file="file://$PROJECT_DIR$/img/plugin.png" />
+    <entry file="file://$PROJECT_DIR$/img/temp.png" />
+    <entry file="file://$PROJECT_DIR$/service-worker.js" />
+    <entry file="file://$PROJECT_DIR$/piano.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="33" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/browserconfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chord.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="115" column="41" selection-start-line="115" selection-start-column="41" selection-end-line="115" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/img/chord.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/img/tuner.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuner.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" selection-start-line="62" selection-end-line="63" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/more.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="45" lean-forward="true" selection-start-line="58" selection-start-column="45" selection-end-line="58" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sightreading.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1018">
+          <caret line="116" column="15" lean-forward="true" selection-start-line="116" selection-start-column="15" selection-end-line="116" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
