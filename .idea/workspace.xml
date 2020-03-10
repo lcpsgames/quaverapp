@@ -2,48 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fa85ba0-c444-4a75-b0b3-66731ffa5910" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/icons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/icons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/icons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/icons.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chord.html" beforeDir="false" afterPath="$PROJECT_DIR$/chord.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/docs.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/home.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/semantic.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drumpad.html" beforeDir="false" afterPath="$PROJECT_DIR$/drumpad.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/lato/Lato-Bold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/lato/Lato-BoldItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/lato/Lato-Italic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/lato/Lato-Regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bassxiao_mp_qrcode.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bassxiao_wx_qrcode.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/chord.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/quaver.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/rocket.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/sing.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tuner.jpeg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/docs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/easing.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/highlight.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/less.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/semantic.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/metronome.html" beforeDir="false" afterPath="$PROJECT_DIR$/metronome.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/more.html" beforeDir="false" afterPath="$PROJECT_DIR$/more.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/piano.html" beforeDir="false" afterPath="$PROJECT_DIR$/piano.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scale.html" beforeDir="false" afterPath="$PROJECT_DIR$/scale.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sightreading.html" beforeDir="false" afterPath="$PROJECT_DIR$/sightreading.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuner.html" beforeDir="false" afterPath="$PROJECT_DIR$/tuner.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -59,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="195">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -260,6 +219,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -322,12 +282,12 @@
       <workItem from="1583755420310" duration="7616000" />
       <workItem from="1583808598595" duration="8577000" />
       <workItem from="1583818842432" duration="8012000" />
-      <workItem from="1583838419395" duration="2011000" />
+      <workItem from="1583838419395" duration="2058000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26216000" />
+    <option name="totallyTimeSpent" value="26263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="642" y="270" width="2366" height="1187" extended-state="0" />
@@ -500,8 +460,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
